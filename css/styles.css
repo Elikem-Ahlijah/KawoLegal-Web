@@ -1,0 +1,163 @@
+.Main {
+    width: 100%;
+    height: auto;
+    padding-top: 0px;
+    padding: 0px;
+}
+
+.MAIN {
+    background-color:rgb(243, 241, 241) ;
+    height: auto;
+    
+}
+
+.NaV {
+    
+    padding-right: 0px;
+    border: 0px;
+    background-color: rgb(88, 4, 4);
+    border-radius: 0px;
+    height: 90px;
+    margin-bottom: 0px;
+    
+    
+     } 
+
+.NAV {
+    position: absolute;
+    padding-right: 0px;
+    border: 0px;
+    background-color: transparent;
+    margin-top: 0px;
+    
+}
+.navbar-default .navbar-nav>li>a {
+    color: rgb(212, 14, 14);
+    padding-top: 10px;
+    padding-bottom: 5px;
+    
+    
+}
+
+.navbar-default .navbar-nav>li>a:hover { 
+    border: 1px solid rgb(212, 14,14);
+    color:  rgb(212, 14,14) ;
+    border-radius: 2px;
+   
+}
+
+.INNER {
+    position: absolute;
+    color: black;
+    align-items: center;
+    margin-top: -600px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 18px;
+}
+
+
+.Brand {
+    height: 70px;
+    padding-top: 15px;
+    padding-bottom: 0px;
+}
+
+.LINKS {
+    padding-left: 600px;
+    margin-top: 30px;
+   
+}
+
+.LinK {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+
+.footer {
+    background-color: rgb(88, 4, 4);
+    height: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 100px;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.socialicons {
+    margin-top: -30px;
+    margin-right: 0px;
+}
+
+.Sicons {
+    margin-left: 30px;
+}
+
+.SEARCH {
+    background-color: rgb(84, 84, 252);
+    color: #ffffff;
+    width: 100px;
+    height: auto;
+    
+}
+
+.SEARCH1 {
+    padding-top: 30px;
+}
+
+.STARTUPS {
+    margin-top: 50px;
+    padding-right: 10px;
+    
+}
+
+.STARTUPIMG{
+    margin-top: 12px;
+    
+}
+
+.STARTUPWRITE{
+    border-bottom: 1px solid rgb(228, 227, 227) ;
+    padding-bottom: 20px;
+}
+
+.LABEL {
+    padding-top: 20px;
+}
+
+.INPUT {
+    width: 800px;
+    height: 30px;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+.SIGNUP {
+    background-color: rgb(84, 84, 252);
+    color: #ffffff;
+    width: 100px;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    border: 0px;
+
+}
+
+.LOGIN {
+    background-color: rgb(84, 84, 252);
+    color: #ffffff;
+    width: 100px;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    border: 0px;
+}
